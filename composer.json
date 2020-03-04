@@ -10,10 +10,10 @@
     ],
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "silverstripe/recipe-core": "^1@dev || ^4@dev",
+        "silverstripe/recipe-core": "^1 || ^4",
         "phpunit/phpunit": "^5.7",
-        "silverstripe/behat-extension": "4.x-dev",
-        "silverstripe/serve": "2.x-dev",
+        "silverstripe/behat-extension": "^4",
+        "silverstripe/serve": "^2",
         "squizlabs/php_codesniffer": "^3"
     },
     "extra": {
